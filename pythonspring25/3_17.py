@@ -1,4 +1,7 @@
 #March 17, 2025
+#code worked on up until 3/17
+#Contains basic python syntax of variables, math operators, functions and importing
+#meant to serve as a ramp for turtle module scriptw in the future
 
 #first function
 #def talk():
